@@ -30,4 +30,4 @@ Para el desarrollo de este proyecto, se tienen en cuenta los requerimientos de d
 - Diseño mecánico del vehículo y espacio disponible para montar el sistema.
 - Características del motor ([mecánicas](https://ebikes.ca/documents/MG310.pdf) y [eléctricas](https://motowoks.com/products/bafang-rm-g310-250-dc-rear-drive-motor-250w)).
 - Características de la batería ().
-- Capacidad de variar la velocidad.
+- Capacidad del piloto para variar la velocidad.
