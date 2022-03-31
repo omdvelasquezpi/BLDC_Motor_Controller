@@ -22,4 +22,12 @@ En el marco de este proyecto, desde el área de Ingeniería Electrónica se ha d
 
 # Requerimientos del cliente y alcance
 
+Para el desarrollo de este proyecto, se tienen en cuenta los requerimientos de diseño que se muestran en la siguiente tabla:
 
+(Agregar tabla de requerimientos).
+
+- [Reglamento de la competencia](https://base.makethefuture.shell/en_gb/service/api/home/shell-eco-marathon/global-rules/_jcr_content/root/content/document_listing/items/download_595134961.stream/1630485146156/38a7abe7331aaa24603d0e8b158565cc726ab78d/shell-eco-marathon-2022-official-rules-chapter-i.pdf).
+- Diseño mecánico del vehículo y espacio disponible para montar el sistema.
+- Características del motor ([mecánicas](https://ebikes.ca/documents/MG310.pdf) y [eléctricas](https://motowoks.com/products/bafang-rm-g310-250-dc-rear-drive-motor-250w)).
+- Características de la batería ().
+- Capacidad de variar la velocidad.
