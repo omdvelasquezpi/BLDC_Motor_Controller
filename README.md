@@ -4,6 +4,9 @@ Este repositorio documenta el desarrollo de un controlador para un motor DC sin 
 
 # Agradecimientos
 
+- Ing. Omar Fonseca
+- Ing. David Fonseca
+- Ing. Johnny Cubides
 
 # Integrantes del grupo
 
