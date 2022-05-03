@@ -12,7 +12,7 @@ Este repositorio documenta el desarrollo de un controlador para un motor DC sin 
 
 - Sharon Damara Peñaloza Restrepo.
 - Jhon Edison Ríos Fonseca.
-- Renzo López Castillo.
+- Renzo Agusto Lopez Castillo.
 - Omar David Velásquez Pinto.
 
 # Ideación del proyecto
