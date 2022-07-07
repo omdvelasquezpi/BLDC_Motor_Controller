@@ -1,12 +1,6 @@
-# Controlador de un motor DC sin escobillas
+# Sistema de monitorización de los parámetros de un motor DC sin escobillas
 
-Este repositorio documenta el desarrollo de un controlador para un motor DC sin escobillas, utilizando una ESP32, como proyecto para la asignatura de Sistemas Embebidos en la Universidad Nacional de Colombia. Del mismo modo, se adjuntan los diseños y esquemáticos del sistema electrónico y de la caja protectora del circuito.
-
-# Agradecimientos
-
-- Ing. Omar Fonseca
-- Ing. David Fonseca
-- Ing. Johnny Cubides
+Este repositorio documenta el desarrollo de un sistema de monitorización de parámetros de un motor DC sin escobillas, tales como, la temperatura de la batería, la corriente de entrada, el estado de carga de la batería, entre otros, utilizando un sistema embebido con una ESP32. El desarrollo del proyecto se realiza para la asignatura de Sistemas Embebidos en la Universidad Nacional de Colombia.
 
 # Integrantes del grupo
 
