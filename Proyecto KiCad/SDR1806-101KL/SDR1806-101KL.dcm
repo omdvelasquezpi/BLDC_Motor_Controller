@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SDR1806-101KL
+D Fixed Inductors 100uH 10% SMD 1806
+K
+F https://componentsearchengine.com/Datasheets/2/SDR1806-101KL.pdf
+$ENDCMP
+#
+#End Doc Library
