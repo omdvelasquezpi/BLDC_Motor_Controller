@@ -5,7 +5,7 @@ Este repositorio documenta el desarrollo de un sistema de monitorización de par
 # Integrantes del grupo
 
 - Sharon Damara Peñaloza Restrepo.
-- Jhon Edison Ríos Fonseca.
+- Jhon Edison Rios Fonseca.
 - Renzo Agusto Lopez Castillo.
 - Omar David Velásquez Pinto.
 
